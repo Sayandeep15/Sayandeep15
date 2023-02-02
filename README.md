@@ -5,13 +5,8 @@
 </a>
 <br/>
 
-
-<h2 align="center">𝓗𝓲  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24"> 𝓘'𝓶 𝓢𝓪𝔂𝓪𝓷𝓭𝓮𝓮𝓹 𝓓𝓾𝓽𝓽𝓪</h2>
-
-<h4 align="center">𝓐 𝓒ℛ𝓔𝓐𝑇𝓘𝓥𝓔 𝓢𝓞𝓤ℒ</h4>
-
 <h3 align="left">Current Status</h3>
-<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - I’m currently learning Python ML, Deep Learning.
 - All of my projects are available at [My Repositories](https://github.com/Sayandeep15?tab=repositories)
