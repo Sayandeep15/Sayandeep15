@@ -32,7 +32,6 @@ My Github Stats
 <a href="https://www.facebook.com/profile.php?id=100036169861218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Sayandeep Dutta" height="30" width="30" /></a>
 <a href="https://instagram.com/i_am_sayandeep?igshid=YmMyMTA2M2Y=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sayandeep Dutta" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/sayandeepdutta81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sayandeepdutta81" height="40" width="40" /></a>
-<a href="https://pin.it/4PNFp9y"><img align="center" src="https://th.bing.com/th/id/R.10df6fa33951c139f2dd749fcfa89025?rik=t48VoTR0LDocBw&riu=http%3a%2f%2fpngimg.com%2fuploads%2fpinterest%2fpinterest_PNG63.png&ehk=SZLd3jCffgI1t9Tn4QVBGlQbET7aCNOfbKs3yqX8Yi0%3d&risl=&pid=ImgRaw&r=0" alt="@me_sayandeep" height="40" width="40" /></a>
 
 </p>
 
