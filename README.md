@@ -6,7 +6,7 @@
 <br/>
 
 <h3 align="left">Current Status</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 - I’m currently learning Python ML, Deep Learning.
 - All of my projects are available at [My Repositories](https://github.com/Sayandeep15?tab=repositories)
