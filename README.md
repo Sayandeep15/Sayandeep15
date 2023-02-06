@@ -30,7 +30,7 @@ My Github Stats
 
 <a href="https://www.linkedin.com/in/sayandeep-dutta-profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sayandeep Dutta" height="30" width="30" /></a>
 <a href="https://www.facebook.com/profile.php?id=100036169861218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Sayandeep Dutta" height="30" width="30" /></a>
-<a href="https://instagram.com/i_am_sayandeep?igshid=YmMyMTA2M2Y=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sayandeep Dutta" height="30" width="30" /></a>
+<a href="https://www.instagram.com/i_am_sayandeep/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sayandeep Dutta" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/sayandeepdutta81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sayandeepdutta81" height="40" width="40" /></a>
 
 </p>
