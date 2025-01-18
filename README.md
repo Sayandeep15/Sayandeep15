@@ -13,8 +13,8 @@
 - Published Paper at [IJARIIT](https://www.ijariit.com/?utm_source=pdf&utm_medium=edition&utm_campaign=OmAkSols&utm_term=V8I4-1199).
 -  [click here](https://www.ijariit.com/manuscript/fast-pothole-detection-with-the-yolo-algorithm/) to see the paper
 - This is my Gmail: sayandeepdutta83685@gmail.com
-- ⚡ Fun Fact: I'm EXTROVERTED INTROVERT. 
-- Aparts from study I'm also an paid artist 👉👈
+- ⚡ Fun Fact: I'm AMBIVERT. 
+- Aparts from study I'm also an artist 👉👈
 
 My Github Stats
 
