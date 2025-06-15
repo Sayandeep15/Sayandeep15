@@ -1,8 +1,11 @@
 # 𝒫𝑅𝒪𝐹𝐼𝐿𝐸
 <p align="center">
-<a href="https://github.com/drkostas">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Sayandeep+Dutta;Student+%7C+B.Tech in ECE+Narula Institute of Technology+%7C"  />
-</a>
+   <pre align="center">
+       I'm Sayandeep Dutta
+       Student Of Narula Institute Of Technology | Btech in ECE, 24
+   </pre>
+    
+
 <br/>
 
 <h3 align="left">Current Status</h3>
