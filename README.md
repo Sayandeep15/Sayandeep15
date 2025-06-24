@@ -4,8 +4,7 @@
        I'm Sayandeep Dutta
        Student Of Narula Institute Of Technology | Btech in ECE, 24
    </pre>
-    
-
+   
 <br/>
 
 <h3 align="left">Current Status</h3>
