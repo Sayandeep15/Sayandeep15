@@ -25,7 +25,6 @@ My Github Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sayandeep15&theme=dracula)
 
 <br>
-
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
